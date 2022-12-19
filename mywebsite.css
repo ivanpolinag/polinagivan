@@ -1,0 +1,17 @@
+.header{
+    color: white;
+    background-color: grey;
+    text-align: center;
+    width: 80%;
+    margin: auto;
+    border-radius: 10px;
+}
+ul{
+    text-align: left;
+}
+table{
+    padding: 10px;
+}
+body{
+    background-image: url('bgimage.png');
+}
